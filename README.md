@@ -1,6 +1,6 @@
-# Hello, I'm Nivea! ⭐
+## Hello, I'm Nivea! ⭐
 
-## I'm a brazilian learning how to live in the Netherlands as a full-stack developer 🖥
+### I'm a brazilian learning how to live in the Netherlands as a full-stack developer 🖥
 
 🦑 At the moment, I'm improving my skills on Ruby on Rails and JavaScript
 I attended Le Wagon's Web Development bootcamp in Amsterdam. I had a blast!
