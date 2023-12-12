@@ -1,6 +1,6 @@
 ## Hello, I'm Nivea! ⭐
 
-### I'm a brazilian learning how to live in the Netherlands as a full-stack developer 🖥
+### 🖥 I'm a brazilian learning how to live in the Netherlands as a full-stack developer 
 
 🦑 At the moment, I'm improving my skills on Ruby on Rails and JavaScript
 I attended Le Wagon's Web Development bootcamp in Amsterdam. I had a blast!
@@ -10,16 +10,35 @@ I attended Le Wagon's Web Development bootcamp in Amsterdam. I had a blast!
 [ToyBoxShare](https://github.com/niveavilar/ToyBoxShare) - a clone of AirBnb where you can rent toys <br>
 [PetLovers](https://github.com/niveavilar/PetLovers) - a mobile app to report a missing or found animal
 
-### Languages I'm currently working with: 
+### Languages and tools I'm currently working with: 
+<div class="d-flex justify-content: space-around">
+  <a href="https://www.ruby-lang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="30" height="30">
+  </a> 
+  
+  <a href="https://rubyonrails.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="30" height="30">
+  </a>
+  
+  <a href="https://www.javascript.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30">
+  </a> 
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30">
+  </a>  
 
-[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30">
+  </a>
+  
+</div>
 
 ### Wanna get in touch? 
 
-
+<a href="https://www.linkedin.com/in/niveavilar">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Perfil LinkedIn" width="50" height="50">
+</a>
 
 <!--
 **niveavilar/niveavilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
