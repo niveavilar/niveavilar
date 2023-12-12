@@ -12,8 +12,13 @@ I attended Le Wagon's Web Development bootcamp in Amsterdam. I had a blast!
 
 ### Languages I'm currently working with: 
 
-[![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rails&logoColor=white)](https://rubyonrails.org/)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Wanna get in touch? 
+
 
 
 <!--
