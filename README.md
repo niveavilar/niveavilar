@@ -8,7 +8,7 @@ I attended Le Wagon's Web Development bootcamp in Amsterdam. I had a blast!
 ### Wanna see the projects I worked with on my finals weeks of the bootcamp? Take a look: 
 
 [ToyBoxShare](https://github.com/niveavilar/ToyBoxShare) - a clone of AirBnb where you can rent toys <br>
-[PetLovers](https://github.com/niveavilar/PetLovers) - a mobile app to report a missing or found animal
+[PetLovers](https://github.com/niveavilar/PetLovers) - a mobile app to report a missing or found animal (mobile only!)
 
 ### Languages and tools I'm currently working with: 
 <div class="d-flex justify-content: space-around">
