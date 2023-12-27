@@ -29,7 +29,7 @@ I attended Le Wagon's Web Development bootcamp in Amsterdam. I had a blast!
   </a>  
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="35" height="35">
   </a>
   
 </div>
