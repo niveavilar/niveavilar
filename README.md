@@ -2,7 +2,7 @@
 
 ### 🖥 I'm a brazilian learning how to live in the Netherlands as a full-stack developer 
 
-🦑 At the moment, I'm improving my skills on Ruby on Rails and JavaScript
+🦑 I'm currently learning Python! <br>
 I attended Le Wagon's Web Development bootcamp in Amsterdam. I had a blast!
 
 ### Wanna see the projects I worked with on my finals weeks of the bootcamp? Take a look: 
