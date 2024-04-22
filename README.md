@@ -2,7 +2,7 @@
 
 ### 🖥 I'm a brazilian learning how to live in the Netherlands as a Software Engineer 
 
-🦑 I'm currently learning a little bit more about Python! <br>
+🦑 I'm currently learning a little bit more about Java! <br>
 
 ### Wanna see the projects I worked with on my finals weeks of the bootcamp? Take a look: 
 
